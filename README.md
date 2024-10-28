@@ -10,6 +10,6 @@ Visitor count since above date. Thanks for visiting 😁<br>
 <img src="https://profile-counter.glitch.me/abhay7dev/count.svg" />
 
 (Before above date)
-<img src="https://komarev.com/ghpvc/?username=EpicGamer007"/>
+<img src="https://github.com/user-attachments/assets/c2f7bd89-79af-407c-a1f7-11dc3286af72"/>
 
 Email <a href="mailto:me@abhay7.dev">me [at] abhay7.dev</a>
