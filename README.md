@@ -9,4 +9,7 @@ I primarily use Java & JS to code. I work with a large variety of platforms and 
 Visitor count since above date. Thanks for visiting 😁<br>
 <img src="https://profile-counter.glitch.me/abhay7dev/count.svg" />
 
+(Before above date)
+<img src="https://komarev.com/ghpvc/?username=EpicGamer007"/>
+
 Email <a href="mailto:me@abhay7.dev">me [at] abhay7.dev</a>
